@@ -1,0 +1,12 @@
+*.iml
+
+.idea/
+.gradle/
+build/
+blinkup_sdk/
+
+local.properties
+
+*.apk
+
+.DS_Store

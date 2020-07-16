@@ -1,6 +1,3 @@
-# Notes
-
-Feel free to write down any and all thoughts, ideas, considerations and tradeoffs that you will likely experience during the test.
 
 # Pokedex
 The Pokedex displays a list of Pokemons, and certain details about each Pokemon.
@@ -13,7 +10,7 @@ The Pokedex displays a list of Pokemons, and certain details about each Pokemon.
 * ViewState
 * RecycledView state is saved onConfigurationChanged
 * RecyclerView is Filterable
-* Material design
+* Material Design
 
 ## Screenshots
 <img src="../master/designs/list.png" width="240"> <img src="../master/designs/search.png" width="240"> <img src="../master/designs/detail.png" width="240">
@@ -31,5 +28,3 @@ The Pokedex displays a list of Pokemons, and certain details about each Pokemon.
 * [Navigation Component](https://developer.android.com/guide/navigation)
 * [Espresso](https://developer.android.com/training/testing/espresso/) Use Espresso to write concise, beautiful, and reliable Android UI tests.
 
-## Considerations
-I would have liked to use TDD, but I had a bug early on that was taking so much of my time.

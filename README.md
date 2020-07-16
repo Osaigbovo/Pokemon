@@ -13,7 +13,7 @@ The Pokedex displays a list of Pokemons, and certain details about each Pokemon.
 * Material Design
 
 ## Screenshots
-<img src="../master/designs/list.png" width="240"> <img src="../master/designs/search.png" width="240"> <img src="../master/designs/detail.png" width="240">
+<img src="../master/designs/list.png"> <img src="../master/designs/search.png"> <img src="../master/designs/detail.png">
 
 ## Libraries Used
 * [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)

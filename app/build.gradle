@@ -12,8 +12,7 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-
-        testInstrumentationRunner "co.metalab.tech.interview.util.MyCustomTestRunner"
+        testInstrumentationRunner "co.metalab.tech.interview.util.PokeTestRunner"
     }
     testOptions {
         execution 'ANDROIDX_TEST_ORCHESTRATOR'

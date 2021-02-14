@@ -1,6 +1,6 @@
 
-# Pokedex
-The Pokedex displays a list of Pokemons, and certain details about each Pokemon.
+# Pokemon
+The Pokemon displays a list of Pokemons, and certain details about each Pokemon.
 
 ## Features
 * CLEAN Architecture (+ MVVM architecture)
